@@ -4,7 +4,7 @@ import numpy as np
 import csv
 import math
 
-from AdfansedKonkuterWision.DriverDrowsinessDetection.DriverDrowsinessDet2.FaceHandsDetector import Detector
+from FaceHandsDetector import Detector
 
 
 DATA_FILE = "coordsNeut.csv"
