@@ -8,8 +8,7 @@ import numpy as np
 import pandas as pd
 import pyglet
 
-
-from AdfansedKonkuterWision.DriverDrowsinessDetection.DriverDrowsinessDet2.FaceHandsDetector import Detector
+from FaceHandsDetector import Detector
 
 
 def play_sound(file="elo2.wav"):
